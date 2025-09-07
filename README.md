@@ -1,41 +1,42 @@
-# Hi, I’m Aditya Sharma (MasterAditya) 👋
+# 👋 Hi, I'm Aditya Sharma
 
-**Third-year CSE (ML) student from Ludhiana, obsessed with agentic AI, SaaS apps, and intelligent systems.**
-
----
-
-##  What I'm working on
-- **Florra** – Language-learning companion (Flutter + FastAPI + Whisper + LLM).  
-- **Flokka** – Agentic Personal Knowledge Manager (FastAPI + React).  
-- Strengthening core skills in DSA, systems design, and scalable infra.
+🚀 Aspiring **AI & SaaS Engineer** | Passionate about building **intelligent systems** and **scalable products**.  
+Currently pursuing **CSE (ML)** and working on agentic apps that merge **AI, automation, and design**.
 
 ---
 
-##  Tech Stack
+## 🔥 Featured Projects
+
+### 🌱 Florra – AI-Powered Language Learning Buddy  
+> A personal AI companion that helps users learn languages through **real conversations**, powered by **Flutter, FastAPI, Whisper, and LLMs**.  
+*(Repo coming soon)*  
+
+---
+
+### 📂 Flokka – Agentic Personal Knowledge Manager  
+> An intelligent **PKM tool** with built-in AI agents to organize, retrieve, and reason over your data. Built with **React + FastAPI**.  
+*(Repo coming soon)*  
+
+---
+
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 ---
 
-##  Featured Projects
-- [**Eco-Access**](https://github.com/MasterAditya/Eco-Access)  
-  A demo site (HTML/CSS/JS) that highlights... [add one-liner describing its purpose].
-- [**Florra (TODO)**]() – Soon: Open-source MVP of my lang-learning buddy.
-- [**RealTimeMemoryAllocationTracker**]() – Tool that visualizes... [explain briefly].
+## 📊 GitHub Stats
+![Aditya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterAditya&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterAditya&layout=compact&theme=radical)
 
 ---
 
-##  GitHub Stats
-![Aditya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterAditya&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterAditya&layout=compact&theme=default)
-
----
-
-##  Contact
+## 📫 Let’s Connect
 - **LinkedIn**: [ursadityasharma](https://linkedin.com/in/ursadityasharma)  
-- **Email**: aditya@example.com
+- **Email**: aditya@example.com  
 
-> “Code early. Ship often. Learn always.”
+💡 *I believe in learning by building, failing fast, and shipping often.*
