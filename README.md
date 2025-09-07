@@ -37,6 +37,6 @@ Currently pursuing **CSE (ML)** and working on agentic apps that merge **AI, aut
 
 ## 📫 Let’s Connect
 - **LinkedIn**: [ursadityasharma](https://linkedin.com/in/ursadityasharma)  
-- **Email**: aditya@example.com  
+- **Email**: aditya.828777@gmail.com  
 
 💡 *I believe in learning by building, failing fast, and shipping often.*
