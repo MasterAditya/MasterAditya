@@ -40,10 +40,9 @@ Built with **React + FastAPI**.
 ---
 
 ## 📊 GitHub Stats
-![Aditya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterAditya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterAditya&layout=compact&theme=radical)
+![GitHub stats](...)
+![Top Languages](...)
 
----
 
 ## 📫 Contact
 - **LinkedIn**: https://linkedin.com/in/ursadityasharma  
