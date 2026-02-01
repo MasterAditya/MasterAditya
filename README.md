@@ -1,21 +1,31 @@
 # 👋 Hi, I'm Aditya Sharma
 
-🚀 Aspiring **AI & SaaS Engineer** | Passionate about building **intelligent systems** and **scalable products**.  
-Currently pursuing **CSE (ML)** and working on agentic apps that merge **AI, automation, and design**.
+🚀 Aspiring **AI & SaaS Engineer** focused on **shipping real tools** and building toward larger **agentic AI systems**.  
+Currently pursuing **CSE (ML)** and actively working on automation-first products.
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🌱 Florra – AI-Powered Language Learning Buddy  
-> A personal AI companion that helps users learn languages through **real conversations**, powered by **Flutter, FastAPI, Whisper, and LLMs**.  
-*(Repo coming soon)*  
+### 📂 Bulk File Organizer (Python)
+> A simple Python CLI tool to clean and organize messy folders in seconds.  
+Organizes files by type and supports bulk renaming.  
+**Status:** Shipped & in use  
+🔗 Repo: https://github.com/MasterAditya/file-organizer
 
 ---
 
-### 📂 Flokka – Agentic Personal Knowledge Manager  
-> An intelligent **PKM tool** with built-in AI agents to organize, retrieve, and reason over your data. Built with **React + FastAPI**.  
-*(Repo coming soon)*  
+### 🌱 Florra – AI-Powered Language Learning Buddy *(In Progress)*  
+> An AI companion for language learning through real conversations.  
+Built with **Flutter, FastAPI, Whisper, and LLMs**.  
+**Status:** MVP under development  
+
+---
+
+### 🧠 Flokka – Agentic Personal Knowledge Manager *(In Progress)*  
+> A privacy-first PKM system with AI agents for organizing and reasoning over personal data.  
+Built with **React + FastAPI**.  
+**Status:** Core architecture in progress  
 
 ---
 
@@ -35,8 +45,8 @@ Currently pursuing **CSE (ML)** and working on agentic apps that merge **AI, aut
 
 ---
 
-## 📫 Let’s Connect
-- **LinkedIn**: [ursadityasharma](https://linkedin.com/in/ursadityasharma)  
+## 📫 Contact
+- **LinkedIn**: https://linkedin.com/in/ursadityasharma  
 - **Email**: aditya.828777@gmail.com  
 
-💡 *I believe in learning by building, failing fast, and shipping often.*
+💡 *I believe in shipping early, learning fast, and letting the market teach me.*
