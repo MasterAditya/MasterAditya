@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Project preview placeholder card">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0EA5E9"/>
+      <stop offset="0.55" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0B1220" flood-opacity="0.12"/>
+    </filter>
+    <pattern id="noise" width="80" height="80" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="12" r="1" fill="#E2E8F0" opacity="0.6"/>
+      <circle cx="34" cy="28" r="1" fill="#E2E8F0" opacity="0.55"/>
+      <circle cx="64" cy="18" r="1" fill="#E2E8F0" opacity="0.5"/>
+      <circle cx="52" cy="56" r="1" fill="#E2E8F0" opacity="0.55"/>
+      <circle cx="22" cy="64" r="1" fill="#E2E8F0" opacity="0.5"/>
+    </pattern>
+    <style>
+      .h { font: 800 20px ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial; fill:#0F172A; }
+      .p { font: 500 13px ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial; fill:#475569; }
+      .chip { fill:#F1F5F9; stroke:#E2E8F0; stroke-width:1; rx:999; }
+      .ct { font: 700 11px ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial; fill:#0F172A; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" fill="#F8FAFC"/>
+
+  <g filter="url(#shadow)">
+    <rect x="48" y="40" width="1104" height="280" rx="22" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.25"/>
+
+    <!-- Accent bar -->
+    <rect x="48" y="40" width="1104" height="6" rx="22" fill="url(#accent)"/>
+
+    <!-- Visual area -->
+    <rect x="72" y="78" width="520" height="210" rx="18" fill="#F8FAFC" stroke="#E2E8F0"/>
+    <rect x="72" y="78" width="520" height="210" rx="18" fill="url(#accent)" opacity="0.08"/>
+    <rect x="72" y="78" width="520" height="210" rx="18" fill="url(#noise)" opacity="0.65"/>
+
+    <!-- Animated shimmer -->
+    <rect x="40" y="60" width="140" height="320" fill="url(#accent)" opacity="0.10" transform="skewX(-18)">
+      <animate attributeName="x" values="-220;1280" dur="3.8s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Text area -->
+    <text class="h" x="624" y="120">Preview placeholder</text>
+    <text class="p" x="624" y="150">Drop a screenshot later — or keep this premium SVG tile.</text>
+
+    <!-- chips -->
+    <g>
+      <rect class="chip" x="624" y="178" width="86" height="24"/>
+      <text class="ct" x="640" y="195">FastAPI</text>
+
+      <rect class="chip" x="720" y="178" width="88" height="24"/>
+      <text class="ct" x="738" y="195">Python</text>
+
+      <rect class="chip" x="818" y="178" width="108" height="24"/>
+      <text class="ct" x="836" y="195">Retrieval</text>
+
+      <rect class="chip" x="936" y="178" width="110" height="24"/>
+      <text class="ct" x="954" y="195">Vector DB</text>
+    </g>
+
+    <!-- CTA hint -->
+    <text class="p" x="624" y="238">Use this to keep visual consistency across projects.</text>
+  </g>
+</svg>
